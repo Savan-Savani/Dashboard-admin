@@ -1,0 +1,14 @@
+.ant-picker-date-panel {
+  width: 310px;
+}
+.add_item{
+    background: rgb(217, 237, 255);
+    border-color: rgb(24, 144, 255);
+    color: rgb(33, 33, 33);
+    position: absolute;
+    left: 0px;
+    bottom: 17px;
+}
+.main_table_add{
+  position: relative;
+}
